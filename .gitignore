@@ -1,0 +1,10 @@
+.env
+token.json
+credentials.json
+vectorstore/
+__pycache__/
+venv/
+*.pyc
+docs/
+credentials.json.json
+agent/tools/credentials.json.json
